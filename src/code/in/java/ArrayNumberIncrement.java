@@ -1,4 +1,4 @@
-package java;
+package code.in.java;
 
 public class ArrayNumberIncrement {
 
